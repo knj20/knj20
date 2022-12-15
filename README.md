@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🌱 I am **KARIMA EL KHAYATI**, a **FULL STACK DEVELOPER**,
+
+⚡ Basically working with **.NET6** and **REACT TS**
+
+:heart_eyes: I am interested in :
+- **C#** and **.NET**,
+- **ARCHITECTURE**,
+- **CLOUD PROGRAMMING**
